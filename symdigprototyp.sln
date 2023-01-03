@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "symdigprototyp", "symdigprototyp\symdigprototyp.csproj", "{87116E7E-2217-4D3B-9AC9-FA432777DE8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87116E7E-2217-4D3B-9AC9-FA432777DE8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87116E7E-2217-4D3B-9AC9-FA432777DE8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87116E7E-2217-4D3B-9AC9-FA432777DE8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87116E7E-2217-4D3B-9AC9-FA432777DE8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF55E714-76FB-40DC-8892-9E436B959EE1}
+	EndGlobalSection
+EndGlobal
